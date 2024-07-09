@@ -19,7 +19,8 @@ The total stock volume also genereated on "L" column with coloumn Header "Total 
 ## Solution 5 Greatest 
 Stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume" find out with the "Ticker Name" and "Value". 
 
-! [screenshot 1] (https://github.com/Sukhbashal/VBA-challenge/edit/main/README.md#:~:text=README.md-,Screenshot,-2.png)
+! [screenshot_1] (https://github.com/Sukhbashal/VBA-challenge/blob/main/screenshot%201.png)
 
-![screenshot2] (https://github.com/Sukhbashal/VBA-challenge/edit/main/README.md#:~:text=Screenshot%204.png-,screenshot,-1.png)
+
+
 
